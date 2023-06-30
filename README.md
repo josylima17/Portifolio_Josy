@@ -4,7 +4,7 @@ Portfólio para documentar o processo de  aprendizado da disciplina de Programa�
 Arquivo
 
 <ul>
-  <li>  formulário cadastro </li>
+  <li>  Cadastro </li>
  </ul>
  
  Descrição: Página HTML que possui um formulário de cadastro utilizando elementos e tags HTML já estudados.
