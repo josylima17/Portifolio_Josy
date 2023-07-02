@@ -40,6 +40,7 @@ Arquivo
 Dificuldades/erros encontrados durante o desenvolvimento do projeto:
 
 Erro: Troquei a maioria dos números por letras (confundi 1 com l).
+
 Ex: var notal = parseFloat(document.getElementById('notal').value);
 
 Descrição: O erro pode ter sido pequeno, mas consequentemente irá resultar em erro... Com auxilio do professor, corrigi.
