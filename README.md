@@ -43,7 +43,7 @@ Erro: Troquei a maioria dos números por letras (confundi 1 com l).
 
 Ex: var notal = parseFloat(document.getElementById('notal').value);
 
-Descrição: O erro pode ter sido pequeno, mas consequentemente irá resultar em erro... Com auxilio do professor, corrigi.
+Descrição: A confusão pode ter sido pequena, mas consequentemente irá resultar em erro... Com auxilio do professor, corrigi.
 
 Link para acesso ao projeto:
 
