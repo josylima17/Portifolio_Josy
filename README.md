@@ -1,10 +1,10 @@
 # Portifolio_Josy
 Portfólio para documentar o processo de  aprendizado da disciplina de Programação Web.
 <h1> Projeto: Formulário de cadastro </h1>
-Arquivo
+Arquivo:
 
 <ul>
-  <li>  Cadastro </li>
+  <li>  cadastro </li>
  </ul>
  
  Descrição: Página HTML que possui um formulário de cadastro utilizando elementos e tags HTML já estudados.
@@ -24,7 +24,7 @@ Link para acesso ao projeto:
 <a href="https://script.google.com/macros/s/AKfycbze5HuHRmL3wBoA7tYpR3ETCN6VBcv60BeY6sk39JkfiQZJgymeG6M3MhvwSpP_RkFNzg/exec">FormCadastro.com</a>
 
 <h1> Projeto: Calcular média ponderada </h1>
-Arquivo
+Arquivo:
 
 <ul>
   <li>  mediaponderada </li>
@@ -48,3 +48,25 @@ Descrição: A confusão pode ter sido pequena, mas consequentemente irá result
 Link para acesso ao projeto:
 
 <a href="https://script.google.com/macros/s/AKfycbwL25-Tp7r1Wu7BM44XSnV4Ocnnl3Nk26DMLeAQVCiuXyU4wbD3-EfV9V7yg8yDupwV/exec">Mediap.com</a>
+
+<h1> Projeto: Login </h1>
+Arquivo:
+
+<ul>
+  <li>  login </li>
+ </ul>
+ 
+ Descrição: Página web que exibe uma mensagem informando ao usuário se o login foi bem sucedido ou não, utilizando elementos e tags HTML já estudados.
+ 
+ Tecnologias utilizadas:
+ <ul>
+  <li> Script de aplicativo do Google </li>
+</ul>
+
+Dificuldades/erros encontrados durante o desenvolvimento do projeto:
+
+Descrição: Não encontrei dificuldade ao realizar a atividade.
+
+Link para acesso ao projeto:
+
+<a href="https://script.google.com/macros/s/AKfycbwOB6NJdluh4WMy91dLJWuaMO251hjESt2YtZxLgI4ePNI5hUd4uP6CangTUXDbx3jUpg/exec">Fazerlogin.com</a>
