@@ -70,3 +70,29 @@ Descrição: Não encontrei dificuldade ao realizar a atividade.
 Link para acesso ao projeto:
 
 <a href="https://script.google.com/macros/s/AKfycbwOB6NJdluh4WMy91dLJWuaMO251hjESt2YtZxLgI4ePNI5hUd4uP6CangTUXDbx3jUpg/exec">Fazerlogin.com</a>
+
+<h1> Projeto: Lista de Compras </h1>
+Arquivo:
+
+<ul>
+  <li>  listadecompras </li>
+ </ul>
+ 
+ Descrição: Página web que informa qual o produto e a quantidade que o cliente deseja comprar utilizando elementos e tags HTML já estudados.
+ 
+ Tecnologias utilizadas:
+ <ul>
+  <li> Script de aplicativo do Google </li>
+</ul>
+
+Dificuldades/erros encontrados durante o desenvolvimento do projeto:
+
+Erro: Troquei uma letra por outra, acabou dando erro.
+
+cursor: pointer;
+
+Descrição: A confusão pode ter sido pequena, mas consequentemente irá resultar em erro... Com bastante atenção, o erro foi resolvido.
+
+Link para acesso ao projeto:
+
+<a href="https://script.google.com/macros/s/AKfycbw8uGM0QMG8xblv270n2wN3ArcfUZLMLN1jlg3kbdB90QqCjvtV-hQ38gNCohQZ0rO1OQ/exec">ListadeCompras.com</a>
