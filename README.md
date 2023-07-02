@@ -95,4 +95,4 @@ Descrição: A confusão pode ter sido pequena, mas consequentemente irá result
 
 Link para acesso ao projeto:
 
-<a href="https://script.google.com/macros/s/AKfycbw8uGM0QMG8xblv270n2wN3ArcfUZLMLN1jlg3kbdB90QqCjvtV-hQ38gNCohQZ0rO1OQ/exec">ListadeCompras.com</a>
+<a href="https://script.google.com/macros/s/AKfycbwTIXGHdJSKrGVPUgL2_njggllg3vxneOWgdJOIkQNEu7mH8bAsFwsjoB1y_zu_E0Cejw/exec">ListadeCompras.com</a>
