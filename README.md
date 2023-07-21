@@ -113,11 +113,11 @@ Arquivo:
 
 Dificuldades/erros encontrados durante o desenvolvimento do projeto:
 
-Descrição: Não encontrei dificuldade ao realizar a atividade.
+Descrição: Projeto abre, mas não funcionou. Consegui consertar o erro, que estava na linha 18... Estava faltando uma letra, adicionei, mesmo assim não funcionou. Diz que ocorreu um erro, que não tenho permissão para acessar o documento.
 
 Link para acesso ao projeto:
 
-<a href="https://script.google.com/macros/s/AKfycbzR0eZc9nL5Ah_6cHqXmn-7tuObqAd2oY4f6W-ceLpF4uX7vs-Ira8mQ1FtIY3_qkEK/exec">Cadastrolivro.com</a>
+<a href="https://script.google.com/macros/s/AKfycbyZ4TGgxgbf6RmPLwOb_bBcQ-bNm84XoznWVQo3MDyX_q1SeRJv4i3ax1mdhNG52MUv/exec">Cadastrolivro.com</a>
 
 <h1> Projeto: Lista de exercícios I (primeira questão) </h1>
 Arquivo:
@@ -127,6 +127,28 @@ Arquivo:
  </ul>
  
  Descrição: Projeto Google App Script que contém um formulário HTML.
+ 
+ Tecnologias utilizadas:
+ <ul>
+  <li> Script de aplicativo do Google </li>
+</ul>
+
+Dificuldades/erros encontrados durante o desenvolvimento do projeto:
+
+Descrição: Não encontrei dificuldade ao realizar a atividade.
+
+Link para acesso ao projeto:
+
+<a href="https://script.google.com/macros/s/AKfycbxlTlvlTKvWl4UgEJ1pwcJ5J79dqb-FZCv3Kz2jM--5q3fjsNXp2Md-qbN_tUMRJ9Bw/exec">GastoGasolina.com</a>
+
+<h1> Projeto: Lista de exercícios I (segunda questão) </h1>
+Arquivo:
+
+<ul>
+  <li>  listadeexerciciosI </li>
+ </ul>
+ 
+ Descrição: Projeto Google App Script que contém um formulário HTML enviados por meio do método
  
  Tecnologias utilizadas:
  <ul>
