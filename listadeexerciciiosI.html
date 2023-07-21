@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <base target="_top">
+  </head>
+  <body>
+     <? var url = getUrl() ?>
+  
+   <form action="<?= url ?>" method="POST">
+  
+ 
+    <label for="distancia">Distância percorrida:</label>
+    <input type="number" id="distancia" name="distancia"/>
+
+    <label for="consumo">Consumo utilizado:</label>
+    <input type="number" id="consumo" name="consumo"/>
+
+    <label for="precogasolina">Preço da gasolina:</label>
+    <input type="number" id="precogasolina" name="precogasolina"/>
+
+    <button submit="calcularpreco()">Calcular preço</button>
+   </form>
+      
+  </body>
+</html>
