@@ -96,3 +96,26 @@ Descrição: A confusão pode ter sido pequena, mas consequentemente irá result
 Link para acesso ao projeto:
 
 <a href="https://script.google.com/macros/s/AKfycbwTIXGHdJSKrGVPUgL2_njggllg3vxneOWgdJOIkQNEu7mH8bAsFwsjoB1y_zu_E0Cejw/exec">ListadeCompras.com</a>
+
+<h1> Projeto: Lista de exercícios I (primeira questão) </h1>
+Arquivo:
+
+<ul>
+  <li>  listadeexerciciosI </li>
+ </ul>
+ 
+ Descrição: Projeto Google App Script que contém um formulário HTML.
+ 
+ Tecnologias utilizadas:
+ <ul>
+  <li> Script de aplicativo do Google </li>
+</ul>
+
+Dificuldades/erros encontrados durante o desenvolvimento do projeto:
+
+Descrição: Não encontrei dificuldade ao realizar a atividade.
+
+Link para acesso ao projeto:
+
+<a href="https://script.google.com/macros/s/AKfycbxlTlvlTKvWl4UgEJ1pwcJ5J79dqb-FZCv3Kz2jM--5q3fjsNXp2Md-qbN_tUMRJ9Bw/exec">GastoGasolina.com</a>
+
