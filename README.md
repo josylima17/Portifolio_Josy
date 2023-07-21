@@ -148,7 +148,7 @@ Arquivo:
   <li>  listadeexerciciosI </li>
  </ul>
  
- Descrição: Projeto Google App Script que contém um formulário HTML enviados por meio do método
+ Descrição: Projeto Google App Script que contém um formulário HTML enviados por meio do método POST do protocolo HTTP.
  
  Tecnologias utilizadas:
  <ul>
@@ -157,7 +157,13 @@ Arquivo:
 
 Dificuldades/erros encontrados durante o desenvolvimento do projeto:
 
-Descrição: Não encontrei dificuldade ao realizar a atividade.
+Erro: function doPost(e){
+
+    var distancia = e.parameter.distancia;
+    var consumo = e.parameter.consumo;
+    var precogasolina = e.parameter.precogasolina;
+    
+Descrição: Encontrei dificuldade ao realizar a atividade, por mais simples que fosse. Acabou dando certo.
 
 Link para acesso ao projeto:
 
