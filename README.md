@@ -168,5 +168,5 @@ Descrição: Encontrei dificuldade ao realizar a atividade, por mais simples que
 
 Link para acesso ao projeto:
 
-<a href="https://script.google.com/macros/s/AKfycbz9IlYPok4wEquIbpXoz3s3KW8yR_Sku04mZHwW8MWxt-GErun9Sln2LThL7V-oq-utUw/exec">GastoGasolinaII.com</a>
+<a href="https://script.google.com/macros/s/AKfycbz9IlYPok4wEquIbpXoz3s3KW8yR_Sku04mZHwW8MWxt-GErun9Sln2LThL7V-oq-utUw/exec">GastoGasolinaII.com</a> 
 
