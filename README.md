@@ -139,7 +139,7 @@ Descrição: Não encontrei dificuldade ao realizar a atividade.
 
 Link para acesso ao projeto:
 
-<a href="https://script.google.com/macros/s/AKfycbxlTlvlTKvWl4UgEJ1pwcJ5J79dqb-FZCv3Kz2jM--5q3fjsNXp2Md-qbN_tUMRJ9Bw/exec">GastoGasolina.com</a>
+<a href="https://script.google.com/macros/s/AKfycbxlTlvlTKvWl4UgEJ1pwcJ5J79dqb-FZCv3Kz2jM--5q3fjsNXp2Md-qbN_tUMRJ9Bw/exec">GastoGasolinaI.com</a>
 
 <h1> Projeto: Lista de exercícios I (segunda questão) </h1>
 Arquivo:
@@ -157,8 +157,9 @@ Arquivo:
 
 Dificuldades/erros encontrados durante o desenvolvimento do projeto:
 
-Erro: function doPost(e){
+Erro: 
 
+  function doPost(e){
     var distancia = e.parameter.distancia;
     var consumo = e.parameter.consumo;
     var precogasolina = e.parameter.precogasolina;
@@ -167,5 +168,5 @@ Descrição: Encontrei dificuldade ao realizar a atividade, por mais simples que
 
 Link para acesso ao projeto:
 
-<a href="https://script.google.com/macros/s/AKfycbxlTlvlTKvWl4UgEJ1pwcJ5J79dqb-FZCv3Kz2jM--5q3fjsNXp2Md-qbN_tUMRJ9Bw/exec">GastoGasolina.com</a>
+<a href="https://script.google.com/macros/s/AKfycbz9IlYPok4wEquIbpXoz3s3KW8yR_Sku04mZHwW8MWxt-GErun9Sln2LThL7V-oq-utUw/exec">GastoGasolinaII.com</a>
 
