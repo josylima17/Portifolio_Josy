@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charse="UTF-8"/>
+    </head>
+    <body>
+          <label for="distancia">Distância percorrida: </label>
+          <input type="number" id="distancia">
+
+          <label for="consumo">Consumo utilizado: </label>
+          <input type="number" id="consumo">
+
+          <label for="gasolina">Preço da gasolina: </label>
+          <input type="number" id="gasolina">
+
+        <button onclick="calcularGasto()">Calcular Gastos</button> 
+
+        <div>
+            <p>Resultado:</p>
+            <p id="calcularTudo"></p>
+        </div>
+
+    <script>
+  function calcularGasto(){
+
+    event.preventDefault();
+
+      var distancia = parseFloat(document.getElementById('distancia').value);
+
+      var consumo= parseFloat(document.getElementById('consumo').value);
+
+      var gasolina = parseFloat(document.getElementById('gasolina').value);
+
+          google.script.run.withSuccessHandler(exibirGasto).calcularGasto(distancia, consumo, gasolina);
+
+  }function exibirGasto(precoFinal){
+      var calcularTudo = document.getElementById('calcularTudo')
+      calcularTudo.innerHTML = precoFinal;
+
+}
+</script>
+    </body>
+</html>
