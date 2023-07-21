@@ -97,7 +97,7 @@ Link para acesso ao projeto:
 
 <a href="https://script.google.com/macros/s/AKfycbwTIXGHdJSKrGVPUgL2_njggllg3vxneOWgdJOIkQNEu7mH8bAsFwsjoB1y_zu_E0Cejw/exec">ListadeCompras.com</a>
 
-<h1> Projeto: Livraria (primeira questão) </h1>
+<h1> Projeto: Livraria </h1>
 Arquivo:
 
 <ul>
