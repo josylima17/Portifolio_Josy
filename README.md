@@ -157,12 +157,7 @@ Arquivo:
 
 Dificuldades/erros encontrados durante o desenvolvimento do projeto:
 
-Erro: 
-
-  function doPost(e){
-    var distancia = e.parameter.distancia;
-    var consumo = e.parameter.consumo;
-    var precogasolina = e.parameter.precogasolina;
+Erro: function doPost(e){ var distancia = e.parameter.distancia; var consumo = e.parameter.consumo; var precogasolina = e.parameter.precogasolina;
     
 Descrição: Encontrei dificuldade ao realizar a atividade, por mais simples que fosse. Acabou dando certo.
 
